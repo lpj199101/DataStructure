@@ -1,4 +1,4 @@
-package com.atguigu.sparsearray;
+package com.atguigu.sparsearray_01;
 
 public class SparseArray {
 
