@@ -1,10 +1,10 @@
-package com.atguigu.search;
+package com.atguigu.search_06;
 
 public class SeqSearch {
 
 	public static void main(String[] args) {
 		int arr[] = { 1, 9, 11, -1, 34, 89 };// 没有顺序的数组
-		int index = seqSearch(arr, -11);
+		int index = seqSearch(arr, 11);
 		if(index == -1) {
 			System.out.println("没有找到到");
 		} else {
