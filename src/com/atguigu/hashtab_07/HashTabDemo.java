@@ -1,4 +1,4 @@
-package com.atguigu.hashtab;
+package com.atguigu.hashtab_07;
 
 import java.util.Scanner;
 
