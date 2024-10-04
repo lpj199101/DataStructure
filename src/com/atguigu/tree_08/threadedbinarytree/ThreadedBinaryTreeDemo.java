@@ -1,6 +1,4 @@
-package com.atguigu.tree.threadedbinarytree;
-
-import java.util.concurrent.SynchronousQueue;
+package com.atguigu.tree_08.threadedbinarytree;
 
 public class ThreadedBinaryTreeDemo {
 
