@@ -1,4 +1,4 @@
-package com.atguigu.binarysorttree;
+package com.atguigu.binarysorttree_09;
 
 public class BinarySortTreeDemo {
 
